@@ -2,6 +2,7 @@
 
 /**
  * Module dependencies.
+ * @private
  */
 
 var cookieSession = require('cookie-session');

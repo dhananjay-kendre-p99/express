@@ -1,3 +1,5 @@
+// Acceptance tests for examples/ejs
+
 
 var request = require('supertest')
   , app = require('../../examples/ejs');

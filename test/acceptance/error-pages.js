@@ -1,3 +1,5 @@
+// Acceptance tests for examples/error-pages
+
 
 var app = require('../../examples/error-pages')
   , request = require('supertest');

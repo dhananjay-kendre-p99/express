@@ -2,6 +2,7 @@
 
 /**
  * Module dependencies.
+ * @private
  */
 
 var escapeHtml = require('escape-html');

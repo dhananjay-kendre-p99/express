@@ -1,3 +1,5 @@
+// Acceptance tests for examples/content-negotiation
+
 
 var request = require('supertest')
   , app = require('../../examples/content-negotiation');

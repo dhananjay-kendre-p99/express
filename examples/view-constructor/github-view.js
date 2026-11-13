@@ -2,6 +2,7 @@
 
 /**
  * Module dependencies.
+ * @private
  */
 
 var https = require('node:https');
