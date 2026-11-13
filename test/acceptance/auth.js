@@ -1,3 +1,5 @@
+// Acceptance tests for examples/auth
+
 var app = require('../../examples/auth')
 var request = require('supertest')
 

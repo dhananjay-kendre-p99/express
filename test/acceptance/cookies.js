@@ -1,3 +1,5 @@
+// Acceptance tests for examples/cookies
+
 
 var app = require('../../examples/cookies')
   , request = require('supertest');
