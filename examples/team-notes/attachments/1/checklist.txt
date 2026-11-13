@@ -1,0 +1,4 @@
+- update changelog
+- bump version
+- tag release
+- publish to npm
